@@ -39,10 +39,8 @@
 
 ### 📊 GitHub Stats & Contributions
 
-<p align="center">
-  <!-- GitHub contribution graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prajwal3114&theme=react-dark&hide_border=true" alt="Contribution Graph" height="200"/>
-</p>
+
+
 
 <p align="center">
   <!-- GitHub overall stats -->
